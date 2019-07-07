@@ -146,7 +146,7 @@ public class AutonRoverRuckus14462Depot extends AutonRoverRuckus14462 {
     /**
      * This is where we move the robot from the lander to the depot
      */
-    //       HEMLO 9
+    //       HEMLO 6
     protected void moveToDepot() {
         encoderDrive(DRIVE_SPEED, -7000,  -7000, 2.2);  // S1: Forward 8 Inches with 5 Sec timeout
     }
